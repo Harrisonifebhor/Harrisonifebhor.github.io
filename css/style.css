@@ -291,7 +291,7 @@ header {
 .heading .fa-solid {
     font-size: 21px;
     color: var(--text-color);
-    background: var(--main-color);
+    background: var(--main-color1);
     border-radius: 5rem;
     padding: 10px;
 }
