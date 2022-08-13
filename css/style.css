@@ -103,7 +103,7 @@ header {
     width: 10px;
     height: 10px;
     border-radius: 50px;
-    background: var(--main-color);
+    background: var(--main-color1);
     position: absolute;
     top: 6px;
     right: 12px;
